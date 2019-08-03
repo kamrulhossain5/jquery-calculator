@@ -1,0 +1,46 @@
+html, body{
+  background-color:grey;
+        font-family: 'Share Tech Mono', monospace;
+}
+h1{
+  color:white;
+  font-family: 'Share Tech Mono', monospace;
+}
+    
+#calcOutput{
+  background-color:black;
+  width:250px;
+  height:75px;
+  border-top-left-radius:2em;
+  border-top-right-radius:2em;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top:20px;
+  padding-top:20px;
+}
+
+#calculator{
+  background-color:black;
+  width:250px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  border-bottom-left-radius:2em;
+  border-bottom-right-radius:2em;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+#steps{
+  padding-left:50px;
+  font-size:2em;
+    color: white;
+}
+.bigButton{
+  width:93px;
+}
+a{
+  margin: 5px;
+  width: 2.6vw;
+  height: 2.6vw;
+    
+}
